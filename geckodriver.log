@@ -1,0 +1,1921 @@
+1581676171791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilelyv3w2"
+1581676172310	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581676172378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581676172378	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581676172379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581676172380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581676175261	Marionette	INFO	Listening on port 65317
+1581676175438	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1581676182792	Marionette	INFO	Stopped listening on port 65317
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581676239339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilef1Ai7Q"
+1581676240011	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581676240053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581676240053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581676240053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581676240053	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581676242408	Marionette	INFO	Listening on port 65386
+1581676242478	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1581676247525	Marionette	INFO	Stopped listening on port 65386
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581676265656	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileYVG1CI"
+1581676266395	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581676266443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581676266443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581676266443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581676266443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581676268916	Marionette	INFO	Listening on port 65457
+1581676269299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581676285035	Marionette	INFO	Stopped listening on port 65457
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581676411783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilerlapR5"
+1581676412381	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581676412447	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581676412447	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581676412447	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581676412447	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581676414880	Marionette	INFO	Listening on port 49172
+1581676414928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1581676446657	Marionette	INFO	Stopped listening on port 49172
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581676511650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileZYmJK7"
+*** You are running in headless mode.
+1581676512201	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581676512232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581676512232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581676512232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581676512232	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581676514631	Marionette	INFO	Listening on port 49257
+1581676514789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1581676666611	Marionette	INFO	Stopped listening on port 49257
+1581676675511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilegRDlho"
+1581676676115	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581676676165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581676676165	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581676676166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581676676166	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581676678833	Marionette	INFO	Listening on port 49347
+1581676679153	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1581676708242	Marionette	INFO	Stopped listening on port 49347
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581678355956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileOW8KaU"
+1581678356354	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581678356384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581678356384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581678356384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581678356384	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581678358335	Marionette	INFO	Listening on port 49578
+1581678358577	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1581678376088	Marionette	INFO	Stopped listening on port 49578
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581678568054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilePVmoPW"
+1581678568433	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581678568463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581678568463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581678568463	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581678568464	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581678570308	Marionette	INFO	Listening on port 49733
+1581678570665	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1581678588469	Marionette	INFO	Stopped listening on port 49733
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581678669005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileyBxMVq"
+*** You are running in headless mode.
+1581678669401	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581678669434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581678669434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581678669434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581678669434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581678671111	Marionette	INFO	Listening on port 49856
+1581678671128	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1581678678860	Marionette	INFO	Stopped listening on port 49856
+1581678700914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofile8xQvYl"
+*** You are running in headless mode.
+1581678701310	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581678701340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581678701340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581678701340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581678701340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581678702919	Marionette	INFO	Listening on port 49940
+1581678702949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1581678712418	Marionette	INFO	Stopped listening on port 49940
+1581678945798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilePXfFD6"
+*** You are running in headless mode.
+1581678946180	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581678946211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581678946211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581678946211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581678946211	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581678947846	Marionette	INFO	Listening on port 50119
+1581678947918	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581678963023	Marionette	INFO	Stopped listening on port 50119
+1581679372002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileD4gNnM"
+*** You are running in headless mode.
+1581679372449	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581679372484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581679372484	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581679372485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581679372485	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581679374252	Marionette	INFO	Listening on port 50469
+1581679374616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1581679402523	Marionette	INFO	Stopped listening on port 50469
+1581679409023	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileKsbFF2"
+*** You are running in headless mode.
+1581679409443	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581679409476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581679409476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581679409476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581679409476	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581679411206	Marionette	INFO	Listening on port 50590
+1581679411638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1581679423961	Marionette	INFO	Stopped listening on port 50590
+1581687304338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileWAZz33"
+*** You are running in headless mode.
+1581687305188	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581687305208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581687305208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581687305208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581687305208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581687306321	Marionette	INFO	Listening on port 54988
+1581687306345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581687360252	Marionette	INFO	Stopped listening on port 54988
+1581687365379	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofiley36exV"
+1581687365627	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581687365646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581687365646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581687365646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581687365646	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581687367045	Marionette	INFO	Listening on port 55090
+1581687367395	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.bseindia.com/markets/equity/EQReports/StockPrcHistori.aspx?expandable=6&scripcode=500002&flag=sp&Submit=G, line 1: unreachable code after return statement
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581688681404	Marionette	INFO	Stopped listening on port 55090
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1581935505935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilejN88Oz"
+*** You are running in headless mode.
+1581935506310	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581935506339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581935506339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581935506339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581935506339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581935508747	Marionette	INFO	Listening on port 59329
+1581935509064	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1581935609361	Marionette	INFO	Stopped listening on port 59329
+Script error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1581935593855	Marionette	INFO	Stopped listening on port 59327
+m/D90/Controller/AppController.js?v=140220201550, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=140220201550, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1581935595711	Marionette	INFO	Stopped listening on port 59328
+1581936318799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileJbw49j"
+*** You are running in headless mode.
+1581936319654	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581936319674	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581936319674	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581936319674	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581936319674	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581936320783	Marionette	INFO	Listening on port 59935
+1581936320808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/v0/amp-analytics-0.1.js, line 107: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/v0/amp-analytics-0.1.js, line 107: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1581936387485	Marionette	INFO	Stopped listening on port 59935
+1581936731064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofile2ZtOGB"
+*** You are running in headless mode.
+1581936731308	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581936731329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581936731329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581936731329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581936731329	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581936732437	Marionette	INFO	Listening on port 60308
+1581936732576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581936742433	Marionette	INFO	Stopped listening on port 60308
+1581936926761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileiha0p7"
+*** You are running in headless mode.
+1581936927016	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581936927034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581936927034	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581936927035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581936927035	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581936928170	Marionette	INFO	Listening on port 60481
+1581936928277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1581936935786	Marionette	INFO	Stopped listening on port 60481
+1581958160252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileOhli4o"
+*** You are running in headless mode.
+1581958161567	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581958161659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581958161659	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581958161660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581958161660	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581958165458	Marionette	INFO	Listening on port 61359
+1581958165522	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1581958181582	Marionette	INFO	Stopped listening on port 61359
+1581961917767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileY45B8u"
+*** You are running in headless mode.
+1581961918475	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581961918530	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581961918531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581961918531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581961918531	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581961921610	Marionette	INFO	Listening on port 61899
+1581961921919	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileRWY2KS"
+*** You are running in headless mode.
+1581961995927	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581961995960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581961995960	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581961995961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581961995961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581961998285	Marionette	INFO	Listening on port 61986
+1581961998424	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1581962019653	Marionette	INFO	Stopped listening on port 61986
+0/v0/amp-analytics-0.1.js, line 107: NS_ERROR_NOT_INITIALIZED: 
+1581962019676	Marionette	INFO	Stopped listening on port 61985
+1581962242954	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilepAPpcG"
+*** You are running in headless mode.
+1581962243653	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581962243690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581962243690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581962243690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581962243690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581962246315	Marionette	INFO	Listening on port 62165
+1581962246606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/v0/amp-analytics-0.1.js, line 107: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+Exiting due to channel error.
+Exiting due to channel error.
+gram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofile7etRUP"
+*** You are running in headless mode.
+1581962300833	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581962300883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581962300883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581962300883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581962300883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581962303640	Marionette	INFO	Listening on port 62301
+1581962303865	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/v0/amp-analytics-0.1.js, line 107: NS_ERROR_NOT_INITIALIZED: 
+1581962347874	Marionette	INFO	Stopped listening on port 62301
+1581962513665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileM1iSz6"
+*** You are running in headless mode.
+1581962514282	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581962514313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581962514313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581962514313	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581962514314	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581962516892	Marionette	INFO	Listening on port 62414
+1581962517314	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1581962544186	Marionette	INFO	Stopped listening on port 62413
+Script error: , line 0: uncaught exception: undefined
+1581962544181	Marionette	INFO	Stopped listening on port 62414
+1581962591404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofile57R49h"
+*** You are running in headless mode.
+1581962592692	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581962592740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581962592740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581962592740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581962592741	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581962595801	Marionette	INFO	Listening on port 62616
+1581962596144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581962614481	Marionette	INFO	Stopped listening on port 62615
+Script error: , line 0: uncaught exception: undefined
+1581962614481	Marionette	INFO	Stopped listening on port 62610
+1581962636918	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileRpY3ps"
+*** You are running in headless mode.
+1581962637852	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581962637909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581962637909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581962637909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581962637909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581962644325	Marionette	INFO	Listening on port 62989
+1581962644753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581962662007	Marionette	INFO	Stopped listening on port 62984
+962661976	Marionette	INFO	Stopped listening on port 62983
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+O	Stopped listening on port 62987
+1581962754161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileVtXqkW"
+*** You are running in headless mode.
+1581962755670	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581962755714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581962755714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581962755715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581962755715	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581962758861	Marionette	INFO	Listening on port 63566
+1581962758915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1581962773234	Marionette	INFO	Stopped listening on port 63566
+962773228	Marionette	INFO	Stopped listening on port 63567
+1581962934415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofiletKyhRk"
+*** You are running in headless mode.
+1581962935001	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581962935036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581962935036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581962935036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581962935036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581962937873	Marionette	INFO	Listening on port 63883
+1581962938074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/JavaScript error: , line 0: uncaught exception: undefined
+1581963378388	Marionette	INFO	Stopped listening on port 63882
+ception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1581963378384	Marionette	INFO	Stopped listening on port 63883
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1581963486175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilelAtwZ1"
+*** You are running in headless mode.
+1581963486882	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581963486949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581963486949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581963486949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581963486949	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581963492414	Marionette	INFO	Listening on port 64437
+1581963492715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/0120012818JavaScriptJavaScript error: https://cdn.ampproject.org/rtv/JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/v0/amp-analytics-0.1.js, line 107: NS_ERROR_NOT_INITIJavaScriptJavaScript error: , line 0: uncaught exception: uJavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScriptJavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1581963741327	Marionette	INFO	Stopped listening on port 64433
+rt 64437
+Marionette	INFO	Stopped listening o15819637411581963741325	Marionette	INFO	Stopped listening on port 64432
+or: , line 0: uncaught exception: undefined
+1581963741326	Marionette	INFO	Stopped listening on port 64438
+analytics-0.1.js, line 107: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/v0/amp-analytics-0.1.js, line 107: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+1581963741327	Marionette	INFO	Stopped listening on port 64436
+1581963838230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilejpZj9S"
+*** You are running in headless mode.
+1581963841403	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581963841462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581963841462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581963841462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581963841462	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581963854476	Marionette	INFO	Listening on port 65326
+1581963854869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+Exiting due to channel error.
+aught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+ng on port 65310
+o send/recv, messages will be lost
+
+1581963856651	Marionette	INFO	Stopped listening on port 65330
+1581963956026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilekpCs5j"
+*** You are running in headless mode.
+1581963974649	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581963974712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581963974712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581963974712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581963974712	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1581963996730	Marionette	INFO	Listening on port 50102
+1581963996937	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN isA content process crashed and MOZ_CRASHREPORTER_SHUTDOWN isJavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.oJavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+Exiting due to channel error.
+aught exception: undefined
+Exiting due to channel error.
+ncaught exception: undefined
+fined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+Exiting due to channel error.
+to send/recv, messages will be lost
+
+1581964054230	Marionette	INFO	Stopped listening on port 50084
+r: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x570006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x570006,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+1581964049669	Marionette	INFO	Stopped listening on port 50066
+1582021137535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilezwZVDb"
+*** You are running in headless mode.
+1582021138720	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582021138773	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582021138774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582021138774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582021138774	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582021155194	Marionette	INFO	Listening on port 57859
+1582021155419	Marionette	WARN	TLS certific1582021155989	Marionette	INFO	Listening on poExiting due to channel error.
+Exiting due to channel error.
+ will be ignored for this session
+Exiting due to channel error.
+on port 57857
+1582021189383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilefZV0cS"
+*** You are running in headless mode.
+1582021190273	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582021190330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582021190330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582021190331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582021190331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582021198762	Marionette	INFO	Listening on port 58417
+1582021198950	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+1582021223384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilepYKcRQ"
+*** You are running in headless mode.
+1582021224064	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582021224101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582021224101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582021224101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582021224101	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582021231302	Marionette	INFO	Listening on port 58939
+1582021231481	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+gram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileDTQm01"
+*** You are running in headless mode.
+1582021254057	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582021254082	addons.xpi-utils	WARN	addMetadata: Add-on formautofill@mozilla.org is invalid: out of memory
+1582021254082	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1582021254084	addons.xpi-utils	WARN	addMetadata: Add-on screenshots@mozilla.org is invalid: out of memory
+1582021254084	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+1582021254101	addons.xpi-utils	WARN	addMetadata: Add-on webcompat-reporter@mozilla.org is invalid: out of memory
+1582021254101	addons.xpi-utils	WARN	Could not uninstall invalid item from locked install location
+JavaScript error: resoJavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: resourcJavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 1893: TypeError: addon is null
+1582021259103	Marionette	INFO	Listening on port 59321
+1582021259499	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+gram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofile5wqC1Z"
+*** You are running in headless mode.
+1582022418219	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582022418243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582022418243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582022418243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582022418243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582022419767	Marionette	INFO	Listening on port 60981
+1582022420091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582022641139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileu6C5Oh"
+*** You are running in headless mode.
+1582022642280	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582022642299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582022642299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582022642300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582022642300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582022643528	Marionette	INFO	Listening on port 61202
+1582022643753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1582022652047	Marionette	INFO	Stopped listening on port 61202
+1582022732361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilemrc4PA"
+*** You are running in headless mode.
+1582022732953	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582022732972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582022732972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582022732972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582022732972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582022734236	Marionette	INFO	Listening on port 61380
+1582022734371	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1582022742299	Marionette	INFO	Stopped listening on port 61380
+1582022755272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilelrk1i1"
+*** You are running in headless mode.
+1582022755889	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582022755907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582022755907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582022755907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582022755907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582022756993	Marionette	INFO	Listening on port 61462
+1582022757282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582022762718	Marionette	INFO	Stopped listening on port 61462
+1582022775763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileoB2UB3"
+*** You are running in headless mode.
+1582022776012	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582022776031	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582022776032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582022776032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582022776032	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582022777081	Marionette	INFO	Listening on port 61540
+1582022777272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1582022788013	Marionette	INFO	Stopped listening on port 61540
+1582023585579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileNG6I0a"
+*** You are running in headless mode.
+1582023586839	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582023586866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582023586866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582023586866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582023586866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582023588375	Marionette	INFO	Listening on port 62431
+1582023588734	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilevTe39P"
+*** You are running in headless mode.
+1582023632075	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582023632094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582023632095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582023632095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582023632095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582023633377	Marionette	INFO	Listening on port 62522
+1582023633788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582023676261	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileLYgLhi"
+*** You are running in headless mode.
+1582023677299	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582023677321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582023677321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582023677321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582023677321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582023678870	Marionette	INFO	Listening on port 62623
+1582023678886	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: , line 0: uncaught exception: out of memory
+Exiting due to channel error.
+1582023708008	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofile83IRdS"
+*** You are running in headless mode.
+1582023708911	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582023708930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582023708930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582023708930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582023708930	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582023710123	Marionette	INFO	Listening on port 62695
+1582023710618	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+gram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileaYMnkS"
+*** You are running in headless mode.
+1582023721689	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582023721708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582023721708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582023721708	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582023721709	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1582024107185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofiledj29te"
+*** You are running in headless mode.
+1582024108362	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582024108401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582024108401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582024108401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582024108401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582024109559	Marionette	INFO	Listening on port 50560
+1582024109948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilel0WNe2"
+*** You are running in headless mode.
+1582024129074	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582024129093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582024129093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582024129093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582024129093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582024130196	Marionette	INFO	Listening on port 50610
+1582024130329	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1582024142950	Marionette	INFO	Stopped listening on port 50610
+1582024154197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofile9bVj71"
+*** You are running in headless mode.
+1582024154441	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582024154459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582024154459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582024154459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582024154459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582024155555	Marionette	INFO	Listening on port 50697
+1582024155706	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1582024166230	Marionette	INFO	Stopped listening on port 50697
+1582024286686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileIXplVO"
+*** You are running in headless mode.
+1582024287056	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582024287075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582024287075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582024287075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582024287075	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582024288163	Marionette	INFO	Listening on port 50799
+1582024288313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1582024299086	Marionette	INFO	Stopped listening on port 50799
+1582024444113	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilehBps89"
+*** You are running in headless mode.
+1582024444357	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582024444375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582024444375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582024444375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582024444376	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582024445395	Marionette	INFO	Listening on port 50942
+1582024445622	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1582024457517	Marionette	INFO	Stopped listening on port 50942
+1582024512742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileilvEj7"
+*** You are running in headless mode.
+1582024513001	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582024513020	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582024513020	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582024513020	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582024513020	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582024514086	Marionette	INFO	Listening on port 51044
+1582024514272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1582024539587	Marionette	INFO	Stopped listening on port 51044
+1582024757960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofilespK8Nj"
+*** You are running in headless mode.
+1582024758213	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582024758234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582024758234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582024758234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582024758234	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582024759265	Marionette	INFO	Listening on port 51170
+1582024759470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1582024771857	Marionette	INFO	Stopped listening on port 51170
+1582033085466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofile4KwEZj"
+*** You are running in headless mode.
+1582033085961	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582033086012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582033086012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582033086012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582033086012	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582033088213	Marionette	INFO	Listening on port 51362
+1582033088601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+Exiting due to channel error.
+	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofile4ztsRp"
+*** You are running in headless mode.
+1582033176955	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582033177837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582033177837	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582033177838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582033177838	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582033180689	Marionette	INFO	Listening on port 51425
+1582033181055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1582033285877	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofiletM5kiI"
+*** You are running in headless mode.
+1582033286508	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582033286559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582033286559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582033286559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582033286559	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582033289690	Marionette	INFO	Listening on port 51613
+1582033290025	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1582033314750	Marionette	INFO	Stopped listening on port 51613
+1582033349794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileXDMwQN"
+*** You are running in headless mode.
+1582033350966	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582033351054	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582033351055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582033351055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582033351055	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582033358450	Marionette	INFO	Listening on port 51768
+1582033358669	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1582033455172	Marionette	INFO	Stopped listening on port 51769
+[Parent 17656, Gecko_IOThread] WARNING: file z:/task_1581105380/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+	Marionette	INFO	Stopped listening on port 51765
+Script error: , line 0: uncaught exception: undefined
+1582033455179	Marionette	INFO	Stopped listening on port 51767
+[Parent 15492, Gecko_IOThread] WARNING: file z:/task_1581105380/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+s-0.1.js, line 107: NS_ERROR_NOT_INITIALIZED: 
+1582033455173	Marionette	INFO	Stopped listening on port 51764
+[Parent 38804, Gecko_IOThread] WARNING: file z:/task_1581105380/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+ine 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1582033455172	Marionette	INFO	Stopped listening on port 51770
+1582043289258	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileIpAJJ5"
+*** You are running in headless mode.
+1582043290145	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582043290199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582043290199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582043290199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582043290199	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582043296041	Marionette	INFO	Listening on port 56007
+1582043296423	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012001281851410/v0/amp-analytics-0.1.js, line 107: NS_ERROR_NOT_INITIALIZED: 
+ error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+Exiting due to channel error.
+er::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofileyMQkq4"
+*** You are running in headless mode.
+1582043446479	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582043446536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582043446536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582043446537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582043446537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582043453833	Marionette	INFO	Listening on port 56804
+1582043454301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/0120012818JavaScript error: , line 0: uncaught exception: und158204351582043536323	Marionette	INFO	Stopped listening on port 56798
+043536322	Marionette	INFO	Stopped listening on port 56802
+0435361582043536322	Marionette	INFO	Stopped listening on port 56804
+Script error: , line 0: uncaught exception: uJavaScriptJavaScript error: , line 0: uncaught exception: u1582043536323	Marionette	INFO	Stopped listening on port 56806
+ined
+1582043536323	Marionette	INFO	Stopped listening on port 56803
+handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1582043536322	Marionette	INFO	Stopped listening on port 56805
+1582043601913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofile17igIJ"
+*** You are running in headless mode.
+1582043603755	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582043603814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582043603814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582043603814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582043603814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582043611029	Marionette	INFO	Listening on port 57622
+1582043611477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/0120012818JavaScript error: , line 0: uncaught exception: undefined
+JavaScriptJavaScript error: , line 0: uncaught exception: uExiting due to channel error.
+ine 0: uncaught exception: undefined
+1582624145286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Arihant\\AppData\\Local\\Temp\\rust_mozprofile76H9Bs"
+*** You are running in headless mode.
+1582624148174	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582624148264	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582624148265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582624148265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582624148265	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582624156990	Marionette	INFO	Listening on port 61761
+1582624157561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/aJavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/aJavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/0120021418JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught excepJavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+r: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_EJavaScript error: , line 0: uncaught exception: Object
+ught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: Object
+ error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 16092, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1583056870325	Marionette	INFO	Stopped listening on port 61756
+ED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js
+###!!! [Parent][MessageChannel] Error: (msgtype=0x370131,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 2036, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 2036, Gecko_IOThread] WARNING: file z:/task_1581954009/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+1583056868485	Marionette	INFO	Stopped listening on port 61755
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5162: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+r: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+08: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+21: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://cdn.ampproject.org/rtv/012002141856310/v0/amp-analytics-0.1.js, line 108: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular.js, line 26421: SyntaxError: unterminated comment
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: https://www.bseindia.com/D90/Angular/angular-sanitize.min.js, line 6: TypeError: d is undefined
+JavaScript error: https://www.bseindia.com/D90/Controller/AppController.js?v=180220201513, line 1: ReferenceError: angular is not defined
+JavaScript error: https://www.bseindia.com/D90/Controller/headerController.js?v=180220201513, line 1: ReferenceError: angular is not defined
